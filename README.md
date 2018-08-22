@@ -2,8 +2,7 @@
 
 # Ping Pong ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-Pingpong is a javascript library for playing with pingpong game
-
+Pingpong is a game by using javascript library.
 
 
 
